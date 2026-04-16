@@ -1,0 +1,3 @@
+timestamp,event_type,hand_detected,orientation,confidence,gesture_type,is_ghost_frame,notes
+1773241584.7673712,SESSION_START,False,,0.00,,False,det=0.2 trk=0.2
+1773241587.8886676,SESSION_END,False,,0.00,,False,clean shutdown

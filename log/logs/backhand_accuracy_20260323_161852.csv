@@ -1,0 +1,9 @@
+timestamp,elapsed_seconds,orientation,orientation_confidence,swipe_direction,is_ghost_frame,notes
+2026-03-23T16:24:07,315.725,back-hand,0.14,RIGHT,False,
+2026-03-23T16:24:11,319.247,back-hand,0.113,RIGHT,False,
+2026-03-23T16:24:19,327.409,back-hand,0.165,RIGHT,False,
+2026-03-23T16:24:24,332.376,back-hand,0.344,RIGHT,False,
+2026-03-23T16:24:27,335.307,back-hand,0.076,RIGHT,False,
+2026-03-23T16:24:29,337.692,back-hand,0.142,LEFT,False,
+2026-03-23T16:24:43,351.683,back-hand,0.312,LEFT,False,
+2026-03-23T16:24:46,354.457,back-hand,0.345,LEFT,False,

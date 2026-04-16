@@ -1,0 +1,7 @@
+timestamp,elapsed_s,orientation,confidence,handedness_score,swipe_direction,is_ghost,notes
+2026-04-15T19:56:27,67.542,palm,1.0,0.0,LEFT,False,
+2026-04-15T19:56:36,76.519,palm,0.562,0.0,LEFT,False,
+2026-04-15T19:56:48,88.651,palm,0.434,0.0,LEFT,False,
+2026-04-15T19:56:52,92.365,palm,0.641,0.0,LEFT,False,
+2026-04-15T19:56:54,94.841,back-hand,0.393,0.0,RIGHT,False,
+2026-04-15T19:56:56,96.258,palm,0.309,0.0,RIGHT,False,

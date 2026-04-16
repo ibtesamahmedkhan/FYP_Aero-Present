@@ -1,0 +1,19 @@
+timestamp,elapsed_seconds,orientation,orientation_confidence,swipe_direction,is_ghost_frame,notes
+2026-03-03T15:03:02,73.371,back-hand,0.187,LEFT,False,Movement validated
+2026-03-03T15:03:19,90.01,back-hand,0.108,LEFT,False,Movement validated
+2026-03-03T15:03:22,93.391,back-hand,0.002,RIGHT,False,Movement validated
+2026-03-03T15:03:25,95.749,back-hand,0.068,RIGHT,False,Movement validated
+2026-03-03T15:03:35,106.298,back-hand,0.188,LEFT,False,Movement validated
+2026-03-03T15:03:55,126.454,back-hand,0.109,RIGHT,False,Movement validated
+2026-03-03T15:03:59,129.932,back-hand,0.052,LEFT,False,Movement validated
+2026-03-03T15:04:04,135.192,palm,0.231,RIGHT,False,Movement validated
+2026-03-03T15:04:06,136.871,palm,0.262,RIGHT,False,Movement validated
+2026-03-03T15:04:25,156.485,palm,0.207,LEFT,False,Movement validated
+2026-03-03T15:04:29,160.572,palm,0.141,RIGHT,False,Movement validated
+2026-03-03T15:04:39,170.399,palm,0.07,LEFT,False,Movement validated
+2026-03-03T15:04:42,172.879,palm,0.212,RIGHT,False,Movement validated
+2026-03-03T15:04:50,181.191,palm,0.084,LEFT,False,Movement validated
+2026-03-03T15:04:54,185.381,palm,0.225,LEFT,False,Movement validated
+2026-03-03T15:05:09,199.794,palm,0.136,RIGHT,False,Movement validated
+2026-03-03T15:05:23,214.247,palm,0.082,RIGHT,False,Movement validated
+2026-03-03T15:05:27,217.822,palm,0.11,LEFT,False,Movement validated

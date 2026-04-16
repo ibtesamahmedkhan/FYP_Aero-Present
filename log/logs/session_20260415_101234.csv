@@ -1,0 +1,9 @@
+timestamp,event_type,hand_detected,orientation,confidence,gesture_type,is_ghost_frame,notes
+1776229954.3794641,SESSION_START,False,,0.00,,False,det=0.3 trk=0.3
+1776229958.1371078,LOCK_SET,True,,0.00,,False,"wrist=(0.629,0.387)"
+1776229958.2109768,GHOST_START,True,,0.00,,False,frames_left=9
+1776229958.2729075,GHOST_END,True,,0.00,,False,
+1776229958.378756,GHOST_START,True,,0.00,,False,frames_left=9
+1776229958.6986287,GHOST_END,True,,0.00,,False,
+1776229958.7468078,GHOST_START,True,,0.00,,False,frames_left=9
+1776229959.1807153,DROPOUT,False,,0.00,,False,beyond ghost window

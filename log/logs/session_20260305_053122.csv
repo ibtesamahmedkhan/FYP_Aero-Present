@@ -1,0 +1,2 @@
+timestamp,event_type,hand_detected,orientation,confidence,gesture_type,notes
+1772670682.313611,SESSION_START,False,,0.00,,conf=0.3

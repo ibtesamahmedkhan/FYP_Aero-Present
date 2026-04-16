@@ -1,0 +1,7 @@
+timestamp,elapsed_seconds,orientation,orientation_confidence,swipe_direction,is_ghost_frame,notes
+2026-04-14T11:10:18,9.188,palm,0.242,RIGHT,False,
+2026-04-14T11:10:19,10.441,palm,0.51,RIGHT,False,
+2026-04-14T11:10:20,11.134,back-hand,0.321,RIGHT,False,
+2026-04-14T11:10:30,21.16,back-hand,0.378,RIGHT,False,
+2026-04-14T11:10:31,22.496,back-hand,0.174,LEFT,False,
+2026-04-14T11:10:46,37.326,back-hand,0.209,LEFT,False,
